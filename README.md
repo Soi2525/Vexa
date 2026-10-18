@@ -18,9 +18,10 @@
 - Сам встаёт на паузу, если в игре открыт чат или другое окно.
 
 **Лечение войск**
-- Лечит партиями с помощью альянса и сам подбирает, сколько войск лечить за раз.
-- Держит в лечении максимум и подстраивается под онлайн альянса (размер помощи).
-- Использует ускорения не больше суток за раз, останавливается после последней партии.
+- Лечит партиями с помощью альянса и сам подбирает, сколько войск лечить за раз; подстраивается под аккаунт и онлайн альянса.
+- Быстрый режим: когда размер настроен — только «Вылечить» → «Помощь», около 1,5 с на партию.
+- Сам пополняет ресурсы предметами («Пополнить всё»). За алмазы ничего не покупает.
+- Ускорения — только с вашего согласия, не больше 6 часов за раз. Нет помощи альянса или кончились предметы — пауза с сообщением.
 
 **Удобно**
 - Подсказки по шагам при первом запуске — проведут по всей настройке.
@@ -32,6 +33,7 @@
 
 1. Скачайте установщик в разделе **[Релизы](https://github.com/Soi2525/SmartClicker/releases/latest)** и запустите его.
 2. Если Windows пишет «Система Windows защитила ваш компьютер» — нажмите **Подробнее → Выполнить в любом случае**. Так Windows показывает программы без платного сертификата.
+   Если на Windows 11 установщик просто не запускается («Интеллектуальное управление приложениями» / Smart App Control) — откройте **Безопасность Windows → Управление приложениями/браузером → Интеллектуальное управление приложениями** и выключите его.
 3. При первом запуске откроется экран активации. Нажмите **«Скопировать»** рядом с ID компьютера и отправьте его автору в **[Discord](https://discord.gg/sAmdXGythn)**. Полученный код вставьте кнопкой **«Вставить»** или Ctrl+V.
 
 ## Настройка эмулятора (один раз)
@@ -53,13 +55,13 @@ Automation for the game in **BlueStacks 5** or **MuMu Player**. Clicks go to the
 
 - **Pet:** presses «Retry» / «Refine» and «Replace» when the result fits, upgrades stats in your order up to the chosen colour or the maximum, can move on to the next pet, stops when Wild Marks run out. Never buys anything.
 - **Horror hunt:** finds horrors of levels 1–7, starts 3- or 5-minute rallies with a set number of marches, pauses when the chat or another game window is open.
-- **Healing:** heals in batches with alliance help, finds the best batch size by itself and adapts to the alliance online; uses speedups of at most 1 day at a time.
+- **Healing:** heals in batches with alliance help, finds the batch size by itself and adapts to your account and alliance online; fast mode (~1.5 s per batch); refills resources with items («Refill all») — never buys with gems; speedups only with your consent, at most 6 hours at a time.
 - **Handy:** step-by-step tips on first start, F7 — pause/resume, F8 — stop, 5 interface languages (English, Russian, Ukrainian, Chinese, Arabic), finds the open emulator automatically.
 
 ### Install
 
 1. Download the installer from **[Releases](https://github.com/Soi2525/SmartClicker/releases/latest)** and run it.
-2. If Windows says "Windows protected your PC" — click **More info → Run anyway**.
+2. If Windows says "Windows protected your PC" — click **More info → Run anyway**. On Windows 11, if the installer silently doesn't start, turn off **Smart App Control** (Windows Security → App & browser control).
 3. On first start copy your computer ID and send it to the author on **[Discord](https://discord.gg/sAmdXGythn)**, then paste the code you receive.
 
 ### Emulator setup (once)
