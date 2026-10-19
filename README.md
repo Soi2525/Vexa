@@ -1,8 +1,10 @@
-# Smart Clicker · by Soi
+# Vexa · by Soi
 
-Автоматизация для игры в **BlueStacks 5** или **MuMu Player**. Клики идут в эмулятор через ADB — мышь остаётся свободной.
+*Smart Clicker теперь называется Vexa.*
 
-**[⬇ Скачать установщик (последняя версия)](https://github.com/Soi2525/SmartClicker/releases/latest)**
+Игровой помощник для игр в **BlueStacks 5** или **MuMu Player**. Клики идут в эмулятор через ADB — мышь остаётся свободной.
+
+**[⬇ Скачать установщик (последняя версия)](https://github.com/Soi2525/Vexa/releases/latest)**
 
 ## Что умеет
 
@@ -31,10 +33,16 @@
 
 ## Установка
 
-1. Скачайте установщик в разделе **[Релизы](https://github.com/Soi2525/SmartClicker/releases/latest)** и запустите его.
+1. Скачайте установщик в разделе **[Релизы](https://github.com/Soi2525/Vexa/releases/latest)** и запустите его.
 2. Если Windows пишет «Система Windows защитила ваш компьютер» — нажмите **Подробнее → Выполнить в любом случае**. Так Windows показывает программы без платного сертификата.
    Если на Windows 11 установщик просто не запускается («Интеллектуальное управление приложениями» / Smart App Control) — откройте **Безопасность Windows → Управление приложениями/браузером → Интеллектуальное управление приложениями** и выключите его.
-3. При первом запуске откроется экран активации. Нажмите **«Скопировать»** рядом с ID компьютера и отправьте его автору в **[Discord](https://discord.gg/sAmdXGythn)**. Полученный код вставьте кнопкой **«Вставить»** или Ctrl+V.
+3. При первом запуске примите пользовательское соглашение. Откроется экран активации: нажмите **«Скопировать»** рядом с ID компьютера и отправьте его в **[Discord](https://discord.gg/sAmdXGythn)**. Полученный код вставьте кнопкой **«Вставить»** или Ctrl+V.
+
+## Доступ
+
+- **Бесплатный пробный день** — один раз на компьютер.
+- **Подписка:** 1 месяц — $5, 3 месяца — $10. Оплата в USDT (TRC20), подробности — в Discord.
+- При обновлении настройки и активация сохраняются.
 
 ## Настройка эмулятора (один раз)
 
@@ -51,7 +59,9 @@ Windows 10 / 11 (64-бит) и BlueStacks 5 или MuMu Player.
 
 ## English
 
-Automation for the game in **BlueStacks 5** or **MuMu Player**. Clicks go to the emulator via ADB — your mouse stays free.
+*Smart Clicker is now Vexa.*
+
+Game assistant for **BlueStacks 5** or **MuMu Player**. Clicks go to the emulator via ADB — your mouse stays free.
 
 - **Pet:** presses «Retry» / «Refine» and «Replace» when the result fits, upgrades stats in your order up to the chosen colour or the maximum, can move on to the next pet, stops when Wild Marks run out. Never buys anything.
 - **Horror hunt:** finds horrors of levels 1–7, starts 3- or 5-minute rallies with a set number of marches, pauses when the chat or another game window is open.
@@ -60,9 +70,13 @@ Automation for the game in **BlueStacks 5** or **MuMu Player**. Clicks go to the
 
 ### Install
 
-1. Download the installer from **[Releases](https://github.com/Soi2525/SmartClicker/releases/latest)** and run it.
+1. Download the installer from **[Releases](https://github.com/Soi2525/Vexa/releases/latest)** and run it.
 2. If Windows says "Windows protected your PC" — click **More info → Run anyway**. On Windows 11, if the installer silently doesn't start, turn off **Smart App Control** (Windows Security → App & browser control).
-3. On first start copy your computer ID and send it to the author on **[Discord](https://discord.gg/sAmdXGythn)**, then paste the code you receive.
+3. On first start accept the license agreement, copy your computer ID and send it on **[Discord](https://discord.gg/sAmdXGythn)**, then paste the code you receive.
+
+### Access
+
+Free 1-day trial (once per computer), then 1 month — $5 or 3 months — $10. Payment in USDT (TRC20), details on Discord.
 
 ### Emulator setup (once)
 
