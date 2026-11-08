@@ -1,0 +1,30 @@
+{
+ "format": 1,
+ "channel": "stable",
+ "ver": "8.2.3",
+ "date": "2026-11-08",
+ "kind": "feature",
+ "engine": 1,
+ "magic": "cb0d0d0a",
+ "logic": {
+  "url": "https://github.com/Soi2525/Vexa/releases/download/v8.2.3/Vexa_logic_8.2.3.zip",
+  "size": 1643141,
+  "sha256": "571c2a8b802bcd37b4c869df09043ecf468ea7feb1d301f56ed8af56f13c4e08"
+ },
+ "installer": {
+  "url": "https://github.com/Soi2525/Vexa/releases/download/v8.2.3/Vexa_Setup_8.2.3.exe",
+  "size": 126240936,
+  "sha256": "1bd51f0aa7de8eb34573d78dd3930b2bb495c2cb7ef0dd6d79d29cc7d84c9396",
+  "ver": "8.2.3",
+  "engine": 1
+ },
+ "notes": {
+  "ru": "Автообновление: новые версии ставятся сами при запуске\nОтчёт об ошибке в один клик — кнопка «Сообщить о проблеме» у журнала\nРаздел «Что нового» с историей версий и подсказками\nПрокачка питомца больше не останавливается у границы цвета раньше времени",
+  "en": "Auto-update: new versions install themselves on launch\nOne-click error report — the “Report a problem” button by the log\nA “What's new” section with version history and guided tips\nPet refining no longer stops too early at a colour boundary",
+  "uk": "Автооновлення: нові версії встановлюються самі під час запуску\nЗвіт про помилку в один клік — кнопка «Повідомити про проблему» біля журналу\nРозділ «Що нового» з історією версій і підказками\nПрокачування улюбленця більше не зупиняється на межі кольору зарано",
+  "zh": "自动更新：启动时自动安装新版本\n一键报告错误——日志旁的“报告问题”按钮\n“新功能”栏目：版本历史和引导提示\n宠物洗练不再在颜色边界处过早停止",
+  "ar": "تحديث تلقائي: تُثبَّت الإصدارات الجديدة تلقائيًا عند التشغيل\nتقرير خطأ بنقرة واحدة — زر «الإبلاغ عن مشكلة» بجانب السجل\nقسم «ما الجديد» مع سجل الإصدارات وتلميحات إرشادية\nلم يعد تحسين الحيوان الأليف يتوقف مبكرًا عند حدّ اللون"
+ },
+ "reports": "https://vexa-reports.soi252502.workers.dev/report",
+ "sig": "2fb51197a76f41bc3e68e1def8f3430b2e435bfd366b82117a398fd151bb3c9f32f298bc0ea084764550d700e6fd7f70d26a8bb1e5363a55081a26999f5e9a07"
+}
